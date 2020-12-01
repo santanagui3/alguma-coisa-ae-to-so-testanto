@@ -1,5 +1,7 @@
 body {
-    background-color: gray;
+    background-image: url(TnQi.gif);
+    background-repeat: no-repeat;
+    background-size: 100%
 }
 .title{
     color: white;
@@ -10,6 +12,10 @@ body {
     width: 100px;
     height: 40px;
     text-align: center;
-    padding: none;
+    padding: 10px;
+
+}
+.paragrafo {
+    color: gold;
 
 }
