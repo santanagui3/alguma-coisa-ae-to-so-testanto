@@ -1,0 +1,15 @@
+body {
+    background-color: gray;
+}
+.title{
+    color: white;
+    text-shadow: black;
+    background-color: chartreuse;
+    border-radius: 50px;
+    border:none;
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    padding: none;
+
+}
